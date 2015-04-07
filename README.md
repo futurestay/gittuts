@@ -21,3 +21,5 @@ git rm
 git reset
 
 git log
+
+git branch
