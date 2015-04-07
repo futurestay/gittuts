@@ -2,6 +2,8 @@
 
 GIT COMMANDS:
 
+git clone
+
 git status
 
 git add
