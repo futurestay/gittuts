@@ -15,3 +15,5 @@ git checkout
 git pull
 
 git push
+
+git rm
