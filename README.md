@@ -23,3 +23,5 @@ git reset
 git log
 
 git branch
+
+git diff
