@@ -17,3 +17,7 @@ git pull
 git push
 
 git rm
+
+git reset
+
+git log
