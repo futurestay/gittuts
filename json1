@@ -2,3 +2,4 @@
                 <li><?$paidviapaypalguestfunds=$data['accountyourpoliciesrecord']['editpaymentandonlinebookingitem']['paidviapaypalguestfunds']; print_r($paidviapaypalguestfunds)?></li>
                 <li><?$paidviapaypaltansfer=$data['accountyourpoliciesrecord']['editpaymentandonlinebookingitem']['paidviapaypaltansfer']; print_r($paidviapaypaltansfer)?></li>
                 <li><?$paidviapaypalfuturestay=$data['accountyourpoliciesrecord']['editpaymentandonlinebookingitem']['paidviapaypalfu
+['paidviapaypalfu’]
