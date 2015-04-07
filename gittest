@@ -1,0 +1,4 @@
+<h4><?$bathrooms=$data['editpropertyitem']['addanewpropertyitem']['bathrooms']; print_r($bathrooms) ?></h4><p><?$bathroomsaction=$data['editpropertyitem']['addanewpropertyitem']['bathroomsaction']; print_r($bathroomsaction) ?></p>
+              <select name="prp_bathrooms" class="form-control" id="prp_bathrooms">
+                <option value="0"><?$bathroomoption1=$data['editpropertyitem']['addanewpropertyitem']['bathroomoptions']['bathroomoption1']; print_r($bathroomoption1) ?></option>
+                <option value="1" selected="selected"><?$bathroomoption2=$data['editpropertyitem']['addanewpropertyitem']['bathroomoptions']['bathroomoption2']; print_r($bathroomoption2) ?></option>
